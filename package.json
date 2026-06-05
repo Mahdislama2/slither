@@ -1,0 +1,45 @@
+{
+  "name": "Slither.io",
+  "version": "1.0.0",
+  "description": "Designed and developed by Mahdi Slama.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "chatbot",
+    "nodejs",
+    "express",
+    "socketio",
+    "real-time",
+    "mahdi-slama",
+    "mahdislama"
+  ],
+  "author": {
+    "name": "Mahdi Slama",
+    "url": "https://mahdislama.com"
+  },
+  "license": "MIT",
+  "homepage": "https://mahdislama.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahdislama2/slither.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mahdislama2/slither/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
