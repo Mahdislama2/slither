@@ -8,9 +8,12 @@ An advanced, high-performance multiplayer Slither.io clone built from scratch us
 ---
 
 ## Mobile ScreenShot
-<img src="assets/01.png" width="360" alt="Screenshot">
-<img src="assets/02.png" width="360" alt="Screenshot">
+<p align="center">
 
+<img src="assets/01.png" width="360" alt="Screenshot">
+&nbsp;&nbsp;&nbsp;
+<img src="assets/02.png" width="360" alt="Screenshot">
+</p>
 
 ## 🌟 Key Features
 
