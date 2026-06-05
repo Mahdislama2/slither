@@ -2,9 +2,15 @@
 
 An advanced, high-performance multiplayer Slither.io clone built from scratch using **Node.js, Express, Socket.io**, and pure **HTML5 Canvas** (Vanilla CSS & JavaScript). Featuring custom skin design interfaces, sound effect synthesizers, professional graphics settings, mobile-friendly virtual joystick controllers, and interactive administrative CMD panel loops.
 
-
+## LapTop ScreenShot
 ![Screenshot](assets/1.png)
+![Screenshot](assets/2.png)
 ---
+
+## Mobile ScreenShot
+![Screenshot](assets/01.png)
+![Screenshot](assets/02.png)
+
 
 ## 🌟 Key Features
 
