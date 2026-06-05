@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Designed and developed by Mahdi Slama.",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js"
@@ -32,10 +31,6 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  },
-  "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
